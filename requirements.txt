@@ -5,3 +5,7 @@ plotly
 scikit-learn
 wordcloud
 openpyxl
+scipy
+matplotlib
+networkx
+pillow
